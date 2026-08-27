@@ -26,6 +26,21 @@ The demonstration includes:
 * Alert acknowledgement
 * Security lockout after repeated incorrect PIN attempts
 
+  ## 📸 Project Screenshots
+
+### Security Control Panel
+
+![Smart Security Control Panel]<img width="254" height="200" alt="Picture1" src="https://github.com/user-attachments/assets/5763ac93-eaba-4239-84db-a4e715c167c0" />
+
+
+### Hardware Setup
+
+![Raspberry Pi Hardware Setup](screenshots/hardware-setup.jpg)
+
+### Email Security Alert
+
+![Email Security Alert](screenshots/email-alert.png)
+
 ---
 
 ## 🚀 Key Features
