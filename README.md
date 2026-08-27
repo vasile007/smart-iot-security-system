@@ -30,18 +30,20 @@ The demonstration includes:
 
 ### Security Control Panel
 
-Smart Security Control Panel
+### Smart Security Control Panel
 
 <img width="400" height="300" alt="Picture1" src="https://github.com/user-attachments/assets/5763ac93-eaba-4239-84db-a4e715c167c0" />
 
 
 ### Hardware Setup
+<img width="237" height="199" alt="Picture3" src="https://github.com/user-attachments/assets/4e47e435-a45a-48f0-a816-092e857633f9" />
 
-![Raspberry Pi Hardware Setup](screenshots/hardware-setup.jpg)
+
 
 ### Email Security Alert
 
-![Email Security Alert](screenshots/email-alert.png)
+<img width="626" height="1128" alt="Picture2" src="https://github.com/user-attachments/assets/a119f9ca-4dfb-454f-9d31-3aa1f8b967cd" />
+
 
 ---
 
