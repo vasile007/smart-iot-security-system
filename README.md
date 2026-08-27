@@ -42,7 +42,7 @@ The demonstration includes:
 
 ### Email Security Alert
 
-<img width="400" height="450" alt="Picture2" src="https://github.com/user-attachments/assets/a119f9ca-4dfb-454f-9d31-3aa1f8b967cd" />
+<img width="500" height="600" alt="Picture2" src="https://github.com/user-attachments/assets/a119f9ca-4dfb-454f-9d31-3aa1f8b967cd" />
 
 
 ---
