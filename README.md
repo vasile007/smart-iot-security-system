@@ -30,7 +30,9 @@ The demonstration includes:
 
 ### Security Control Panel
 
-![Smart Security Control Panel]<img width="254" height="200" alt="Picture1" src="https://github.com/user-attachments/assets/5763ac93-eaba-4239-84db-a4e715c167c0" />
+Smart Security Control Panel
+
+<img width="400" height="300" alt="Picture1" src="https://github.com/user-attachments/assets/5763ac93-eaba-4239-84db-a4e715c167c0" />
 
 
 ### Hardware Setup
