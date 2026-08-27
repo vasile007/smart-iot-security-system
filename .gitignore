@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+security_photos/
+.DS_Store
