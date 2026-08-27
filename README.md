@@ -36,13 +36,13 @@ The demonstration includes:
 
 
 ### Hardware Setup
-<img width="237" height="199" alt="Picture3" src="https://github.com/user-attachments/assets/4e47e435-a45a-48f0-a816-092e857633f9" />
+<img width="400" height="300" alt="Picture3" src="https://github.com/user-attachments/assets/4e47e435-a45a-48f0-a816-092e857633f9" />
 
 
 
 ### Email Security Alert
 
-<img width="626" height="1128" alt="Picture2" src="https://github.com/user-attachments/assets/a119f9ca-4dfb-454f-9d31-3aa1f8b967cd" />
+<img width="400" height="300" alt="Picture2" src="https://github.com/user-attachments/assets/a119f9ca-4dfb-454f-9d31-3aa1f8b967cd" />
 
 
 ---
